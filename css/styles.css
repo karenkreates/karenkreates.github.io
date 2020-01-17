@@ -112,7 +112,7 @@ a{
 }
 
 a:hover{
-  color:#9E472C;     /*red*/
+  color:#9E472C     /*red*/
 }
 
 a:active{
@@ -177,7 +177,7 @@ button:hover {
   right: 0;
   display: block;
   z-index: 1;
-  animation: animate 20s linear infinite;
+  animation: city 20s linear infinite;
 }
 
 @keyframes city{
